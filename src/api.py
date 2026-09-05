@@ -23,7 +23,7 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent
 SUITABILITY_MODEL_PATH = (
     PROJECT_ROOT
     / "models"
-    / "lesion_suitability_efficientnet_b0_weighted.pth"
+    / "lesion_suitability_efficientnet_b0_realworld.pth"
 )
 
 
